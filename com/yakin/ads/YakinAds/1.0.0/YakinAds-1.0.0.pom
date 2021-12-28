@@ -5,6 +5,5 @@
   <groupId>com.yakin.ads</groupId>
   <artifactId>YakinAds</artifactId>
   <version>1.0.0</version>
-  <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
 </project>
